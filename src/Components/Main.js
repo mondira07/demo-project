@@ -35,7 +35,7 @@ function CustomTabPanel(props) {
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             color: 'white',
-          }}
+          }} 
         >
           <Typography variant="h6" component="div" sx={{ mb: 2, fontWeight: 'bold' }}>
             {children}
